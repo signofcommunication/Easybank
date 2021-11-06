@@ -1,0 +1,14 @@
+export { default as confetti } from "./image-confetti.jpg";
+export { default as currency } from "./image-currency.jpg";
+export { default as plane } from "./image-plane.jpg";
+export { default as restaurant } from "./image-restaurant.jpg";
+export { default as boarding } from "./icon-onboarding.svg";
+export { default as api } from "./icon-api.svg";
+export { default as budget } from "./icon-budgeting.svg";
+export { default as online } from "./icon-online.svg";
+export { default as facebook } from "./icon-facebook.svg";
+export { default as twitter } from "./icon-twitter.svg";
+export { default as youtube } from "./icon-youtube.svg";
+export { default as instagram } from "./icon-instagram.svg";
+export { default as pinterest } from "./icon-pinterest.svg";
+export { default as logo } from "./logo.svg";

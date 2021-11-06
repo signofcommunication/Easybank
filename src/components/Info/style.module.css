@@ -1,0 +1,37 @@
+.main {
+    margin-left: 2%;
+    background-color: hsl(0, 0%, 98%);
+    padding: 90px 0;
+}
+
+.header {
+    margin: 30px 3%;
+}
+
+.info {
+    display: flex;
+}
+
+.headingTag {
+    color: hsl(233, 26%, 24%);
+    font-family: 'Public sans',sans-serif !important;
+    margin: 20px 0;
+}
+
+.textTag {
+    font-family: 'Public sans',sans-serif !important;
+    color: hsl(233, 8%, 62%);
+}
+
+.reason {
+    font-family: 'Public sans',sans-serif !important;
+    color: hsl(233, 26%, 24%);
+    font-size: 2rem;
+    font-weight: 300;
+    margin: 20px 0;
+}
+
+.subReason {
+    font-family: 'Public sans',sans-serif !important;
+    color: hsl(233, 8%, 62%);
+}
